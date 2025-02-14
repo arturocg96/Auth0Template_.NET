@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "PrivateController",
+    "Method": "GetAdminData",
+    "RelativePath": "api/Private/admin-only",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PrivateController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Private/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PublicController",
+    "Method": "Public",
+    "RelativePath": "api/Public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

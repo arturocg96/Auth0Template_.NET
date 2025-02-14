@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|c:\\users\\arturocarrascogonz\u00E1l\\desktop\\authtemplate\\authtemplate\\controllers\\privatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|solutionrelative:authtemplate\\controllers\\privatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|c:\\users\\arturocarrascogonz\u00E1l\\desktop\\authtemplate\\authtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|solutionrelative:authtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|c:\\users\\arturocarrascogonz\u00E1l\\desktop\\authtemplate\\authtemplate\\constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|solutionrelative:authtemplate\\constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|c:\\users\\arturocarrascogonz\u00E1l\\desktop\\authtemplate\\authtemplate\\authorization\\hasscopehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|solutionrelative:authtemplate\\authorization\\hasscopehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|c:\\users\\arturocarrascogonz\u00E1l\\desktop\\authtemplate\\authtemplate\\authorization\\hasscoperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|solutionrelative:authtemplate\\authorization\\hasscoperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|c:\\users\\arturocarrascogonz\u00E1l\\desktop\\authtemplate\\authtemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|solutionrelative:authtemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|c:\\users\\arturocarrascogonz\u00E1l\\desktop\\authtemplate\\authtemplate\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C826AEE4-1FC5-4F4C-9852-A9BBC76A6425}|AuthTemplate\\AuthTemplate.csproj|solutionrelative:authtemplate\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrivateController.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Controllers\\PrivateController.cs",
+              "RelativeDocumentMoniker": "AuthTemplate\\Controllers\\PrivateController.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Controllers\\PrivateController.cs",
+              "RelativeToolTip": "AuthTemplate\\Controllers\\PrivateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:53:35.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Constants\\Permissions.cs",
+              "RelativeDocumentMoniker": "AuthTemplate\\Constants\\Permissions.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Constants\\Permissions.cs",
+              "RelativeToolTip": "AuthTemplate\\Constants\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:05:22.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthTemplate\\appsettings.json",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\appsettings.json",
+              "RelativeToolTip": "AuthTemplate\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T07:56:51.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "AuthTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Program.cs",
+              "RelativeToolTip": "AuthTemplate\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:56:01.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "AuthTemplate\\Controllers\\PublicController.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "AuthTemplate\\Controllers\\PublicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:53:19.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HasScopeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Authorization\\HasScopeHandler.cs",
+              "RelativeDocumentMoniker": "AuthTemplate\\Authorization\\HasScopeHandler.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Authorization\\HasScopeHandler.cs",
+              "RelativeToolTip": "AuthTemplate\\Authorization\\HasScopeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:52:09.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HasScopeRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Authorization\\HasScopeRequirement.cs",
+              "RelativeDocumentMoniker": "AuthTemplate\\Authorization\\HasScopeRequirement.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\Desktop\\AuthTemplate\\AuthTemplate\\Authorization\\HasScopeRequirement.cs",
+              "RelativeToolTip": "AuthTemplate\\Authorization\\HasScopeRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:51:51.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

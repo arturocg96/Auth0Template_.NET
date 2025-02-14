@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "t6ZaVPLLLwr0PnwO4pzNOw8E3RPvHkh6VTbkoxa5CWw=",
+  "Source": "AuthTemplate",
+  "BasePath": "_content/AuthTemplate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
